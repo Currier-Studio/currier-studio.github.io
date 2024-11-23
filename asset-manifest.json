@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.43aebcf8.css",
+    "main.js": "/static/js/main.f209aa62.js",
+    "static/js/453.18c3923c.chunk.js": "/static/js/453.18c3923c.chunk.js",
+    "static/media/CurrierBanner.webp": "/static/media/CurrierBanner.4d586aedae2e3d3c6056.webp",
+    "index.html": "/index.html",
+    "main.43aebcf8.css.map": "/static/css/main.43aebcf8.css.map",
+    "main.f209aa62.js.map": "/static/js/main.f209aa62.js.map",
+    "453.18c3923c.chunk.js.map": "/static/js/453.18c3923c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43aebcf8.css",
+    "static/js/main.f209aa62.js"
+  ]
+}
